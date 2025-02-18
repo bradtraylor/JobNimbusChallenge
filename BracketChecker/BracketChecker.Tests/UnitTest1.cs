@@ -8,12 +8,14 @@ public class BracketTests
     [InlineData("<>", true)]
     [InlineData("><", false)]
     [InlineData("<<>", false)]
-    [InlineData("", true)]
+    [InlineData("", false)] //empty string, no brackets
     [InlineData("<abc...xyz>", true)]
     [InlineData("<<>>", true)]
     [InlineData("<<<>>>", true)]
     [InlineData("<<><>>", true)]
     [InlineData("<<<>>", false)]
+    [InlineData("()", false)]
+    [InlineData("[]", false)]
     public void TestBracketMatching(string input, bool expected)
     {
         BracketCheckWorker checker = new();

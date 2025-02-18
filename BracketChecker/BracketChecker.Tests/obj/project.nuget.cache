@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rwgyHTV1DC4=",
+  "dgSpecHash": "JJoByUsbmRU=",
   "success": true,
-  "projectFilePath": "/Users/bradtraylor/code/BracketChecker/BracketChecker.Tests/BracketChecker.Tests.csproj",
+  "projectFilePath": "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.Tests/BracketChecker.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/bradtraylor/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/bradtraylor/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",

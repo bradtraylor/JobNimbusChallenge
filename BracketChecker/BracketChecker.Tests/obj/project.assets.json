@@ -963,11 +963,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradtraylor/code/BracketChecker/BracketChecker.Tests/BracketChecker.Tests.csproj",
+      "projectUniqueName": "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.Tests/BracketChecker.Tests.csproj",
       "projectName": "BracketChecker.Tests",
-      "projectPath": "/Users/bradtraylor/code/BracketChecker/BracketChecker.Tests/BracketChecker.Tests.csproj",
+      "projectPath": "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.Tests/BracketChecker.Tests.csproj",
       "packagesPath": "/Users/bradtraylor/.nuget/packages/",
-      "outputPath": "/Users/bradtraylor/code/BracketChecker/BracketChecker.Tests/obj/",
+      "outputPath": "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradtraylor/.nuget/NuGet/NuGet.Config"
@@ -982,8 +982,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/bradtraylor/code/BracketChecker/BracketChecker.csproj": {
-              "projectPath": "/Users/bradtraylor/code/BracketChecker/BracketChecker.csproj"
+            "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.csproj": {
+              "projectPath": "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.csproj"
             }
           }
         }
