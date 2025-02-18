@@ -7,15 +7,18 @@ public class BracketCheckWorker
     }
     public static bool HasMatchingBrackets(string input)
     {
-        int count = 0;
+
+        if (input.Length == 0 || !input.Contains('<') || !input.Contains('>')) return false; //empty string and/or no brackets in input
+
+        int bracketCount = 0;
 
         foreach (char c in input)
         {
-            if (c == '<') count++;
-            else if (c == '>') count--;
+            if (c == '<') bracketCount++;
+            else if (c == '>') bracketCount--;
 
-            if (count < 0) return false; 
+            if (bracketCount < 0) return false; 
         }
-        return count == 0;
+        return bracketCount == 0;
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvqIhewXcUo=",
+  "dgSpecHash": "90yMY+AvXNM=",
   "success": true,
-  "projectFilePath": "/Users/bradtraylor/code/BracketChecker/BracketChecker.csproj",
+  "projectFilePath": "/Users/bradtraylor/code/JobNimbusChallenge/BracketChecker/BracketChecker.csproj",
   "expectedPackageFiles": [
     "/Users/bradtraylor/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
     "/Users/bradtraylor/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",

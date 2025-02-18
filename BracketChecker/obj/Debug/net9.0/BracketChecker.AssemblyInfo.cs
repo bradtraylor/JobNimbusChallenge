@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BracketChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c660c4b2ba2f414056ac481242838703776a5579")]
 [assembly: System.Reflection.AssemblyProductAttribute("BracketChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BracketChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
